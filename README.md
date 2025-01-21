@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... exploring new techs
 - 🌱 I’m currently learning ... cpp,nodejs
 - 💞️ I’m looking to collaborate on ... not much...still learning
-- 📫 How to reach me ...here's my linked in(www.linkedin.com/in/reetam-kumar-nayak-163b45264)
+- 📫 How to reach me ...here's my linked in(www.linkedin.com/in/reetamkumar668/)
 
 <!---
 reetamnayak486/reetamnayak486 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
